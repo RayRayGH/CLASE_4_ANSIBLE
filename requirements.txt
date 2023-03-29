@@ -1,4 +1,0 @@
-ansible==6.0.0
-passlib
-Flask==2.0.2
-Flask-WTF==1.0.0
